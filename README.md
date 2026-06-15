@@ -59,7 +59,7 @@ I enjoy transforming ideas into functional products and continuously improving m
 ### ⚡ Current Focus
 
 ```text
-Backend      → Node.js, Express.js, SQL Server, Firebase
+Backend      → Node.js, Express.js, MongoDB, Firebase
 Frontend     → React.js, Next.js
 Mobile       → Flutter
 Exploring    → System Design, Clean Architecture, AI Agents
